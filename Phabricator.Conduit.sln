@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phabricator.Conduit", "Phabricator.Conduit.csproj", "{3A42BCA2-93B3-4361-9E32-0A17BCF8625A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A42BCA2-93B3-4361-9E32-0A17BCF8625A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A42BCA2-93B3-4361-9E32-0A17BCF8625A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A42BCA2-93B3-4361-9E32-0A17BCF8625A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A42BCA2-93B3-4361-9E32-0A17BCF8625A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Phabricator.Conduit.csproj
+	EndGlobalSection
+EndGlobal
